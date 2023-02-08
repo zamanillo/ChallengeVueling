@@ -21,5 +21,5 @@ Utilizamos una estructura básica con capa modelo donde están todas las clases 
 
 ## Justificación de la solución aportada
 
-He optado por esta solución y no entrar en hacer una APIRest con peticiones por endpoint ya que en los requerimientos pide que el texto sea ingresado por el usuario por entrada estándar y la salida por salida estándar.
+He optado por esta solución y no entrar en hacer una APIRest con una BD y peticiones por endpoint ya que en los requerimientos pide que el texto sea ingresado por el usuario por entrada estándar y la salida por salida estándar.
 Tampoco tenía claro si se podía usar Spring Boot ya que en los requerimientos técnicos especificaba que no se podían utilizarframeworks como Symphony, Laravel, etc.
